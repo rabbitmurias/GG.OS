@@ -8,12 +8,12 @@
 
 /* UserInfo */
 
- var UserName = "SE";
+ var UserName = "RabbitMurias";
 
  var PassProtected = "Yes";
 
  /* Not obtained by About Vox */
 
- var Pass = "2663680";
+ var Pass = "3805";
 
- var max = "7";
+ var max = "4";
