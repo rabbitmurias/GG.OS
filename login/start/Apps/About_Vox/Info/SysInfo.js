@@ -8,7 +8,7 @@
 
 /* UserInfo */
 
- var UserName = "RabbitMurias";
+ var UserName = "Murias";
 
  var PassProtected = "Yes";
 
