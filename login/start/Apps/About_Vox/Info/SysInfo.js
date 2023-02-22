@@ -10,7 +10,7 @@
 
  var UserName = "Murias";
 
- var PassProtected = "No";
+ var PassProtected = "Yes";
 
  /* Not obtained by About Vox */
 
